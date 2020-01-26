@@ -35,7 +35,7 @@ const reducer = (state = { list: [], updatedList: [] }, action) => {
 				tempArray.push(row);
 			}
 		})
-		return { ...state, updatedList: tempArray, isFiltered:true }
+		return { ...state, updatedList: tempArray, isFiltered: true }
 	}
 	else
 		return state
