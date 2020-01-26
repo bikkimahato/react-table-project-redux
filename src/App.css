@@ -1,0 +1,5 @@
+body {background-color: #FFFFFF;
+		margin:0}
+input:required {
+    box-shadow:none;
+}
