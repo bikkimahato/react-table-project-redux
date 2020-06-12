@@ -1,7 +1,7 @@
 import React from 'react';
 import { titleLine, phoneTitle, mailTitle, nameTitle } from '../Style/Style-DataTitle'
 import { nameData, mailData, phoneData, editData, dataLine, edit, del, tableStyle, tableData } from '../Style/Style-DataRow'
-import { nameBox, mailBox, phoneBox, save, cancel, groupButton } from '../Style/Style-Input'
+import { mailBox, save, cancel, groupButton } from '../Style/Style-Input'
 import { cancelEdit, saveEdit, editRow, delRow, filterByStatus } from '../Action/Action'
 //not validate yet
 
