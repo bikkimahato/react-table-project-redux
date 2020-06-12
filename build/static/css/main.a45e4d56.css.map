@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KAAM,sBACJ,QAAQ,CACV,eACI,wBACQ,eAAgB","file":"static/css/main.a45e4d56.css","sourcesContent":["body {background-color: #FFFFFF;\n\t\tmargin:0}\ninput:required {\n    -webkit-box-shadow:none;\n            box-shadow:none;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}

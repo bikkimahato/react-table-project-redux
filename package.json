@@ -1,7 +1,7 @@
 {
   "name": "dungeon",
   "version": "0.1.0",
-  "homepage": "https://github.com/bikkimahato/react-table-project-redux",
+  "homepage": "http://bikkimahato.github.io/react-table-project-redux",
   "private": true,
   "dependencies": {
     "gh-pages": "^1.2.0",
